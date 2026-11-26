@@ -13,6 +13,6 @@
     "node-cron": "^4.6.0"
   },
   "overrides": {
-    "undici": "6.28.0"
+    "undici": "6.29.1"
   }
 }
